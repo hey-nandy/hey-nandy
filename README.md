@@ -1,4 +1,4 @@
-# Hi there, I'm Nandhini 👋
+# Hi there, I'm Nandy 👋
 
 🎓 *M.Sc. Data Science Student* at GISMA University, Germany  
 📊 Passionate about *Data Science, Machine Learning & Artificial Intelligence*  
@@ -61,8 +61,8 @@
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: Add your LinkedIn link here  
-📧 Email: Add your email here  
+💼 LinkedIn: www.linkedin.com/in/nandhini-devi-85b979285 
+📧 Email: nandhini1152001@gmail.com  
 
 ---
 
