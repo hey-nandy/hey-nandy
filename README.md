@@ -61,8 +61,7 @@ I'm a passionate *Data Science Master's student in Germany* who loves transformi
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn:[linkedin](www.linkedin.com/in/nandhini-devi-85b979285)
-
+💼 LinkedIn:[LinkedIn](https://www.linkedin.com/in/nandhini-devi-85b979285)
 📧 Email: nandhini1152001@gmail.com
 
 ---
