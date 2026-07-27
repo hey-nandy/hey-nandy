@@ -1,75 +1,73 @@
-# Hi there, I'm Nandy 👋
+# Hi, I'm Nandy🤎🪽
 
-🎓 *M.Sc. Data Science Student* at GISMA University, Germany  
-📊 Passionate about *Data Science, Machine Learning & Artificial Intelligence*  
-💡 Interested in turning data into meaningful insights and solving real-world problems  
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
+## 🚀 Data Science Student | Future Data Scientist
 
-## 🚀 About Me
+Welcome to my GitHub profile!  
+I'm a passionate *Data Science Master's student in Germany* who loves transforming data into meaningful insights and building intelligent solutions.
 
-•⁠  ⁠🌱 Currently learning *Python, Machine Learning, SQL & Data Analytics*
-•⁠  ⁠📚 Building projects in *Data Science and AI*
-•⁠  ⁠🔍 Exploring data visualization and predictive modelling
-•⁠  ⁠🎯 Goal: Become a Data Scientist and contribute to impactful projects
+•⁠  ⁠🎓 Currently pursuing *MSc Data Science*
+•⁠  ⁠📊 Interested in *Machine Learning, Artificial Intelligence & Data Analytics*
+•⁠  ⁠🥀 Working with *Python, SQL, and Data Visualization*
+•⁠  ⁠🌱 Continuously learning new technologies
+•⁠  ⁠💡 Passionate about solving real-world problems with data
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
-🐍 Python  
-🗄️ SQL  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Data Science Tools
-•⁠  ⁠Pandas
-•⁠  ⁠NumPy
-•⁠  ⁠Matplotlib
-•⁠  ⁠Scikit-learn
-•⁠  ⁠Jupyter Notebook
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Data Visualization
-•⁠  ⁠Power BI
-•⁠  ⁠Tableau
-
-### Other Tools
-•⁠  ⁠Git & GitHub
-•⁠  ⁠VS Code
-•⁠  ⁠Excel
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
 ## 📌 Featured Projects
+🔹 *Data Analysis Projects*
+•⁠  ⁠Exploratory Data Analysis using Python
+•⁠  ⁠Data Cleaning & Visualization
+•⁠  ⁠Statistical Analysis
 
-🔹 *Data Analysis Projects*  
-📊 Exploratory Data Analysis using Python and visualization techniques
+🔹 *Machine Learning Projects*
+•⁠  ⁠Predictive Models
+•⁠  ⁠Classification Algorithms
+•⁠  ⁠Regression Analysis
 
-🔹 *Machine Learning Projects*  
-🤖 Building prediction models using real-world datasets
-🔹 *SQL Projects*  
-🗃️ Database queries and business case analysis
-
----
-
-## 📈 Currently Working On
-
-•⁠  ⁠Improving Machine Learning skills
-•⁠  ⁠Creating Data Science portfolio projects
-•⁠  ⁠Learning advanced analytics techniques
+🔹 *Future Goals*
+•⁠  ⁠Build AI-powered applications
+•⁠  ⁠Contribute to open-source projects
+•⁠  ⁠Create impactful data solutions
 
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Statistics
 
-💼 LinkedIn: www.linkedin.com/in/nandhini-devi-85b979285 
-📧 Email: nandhini1152001@gmail.com  
+![Nandhini's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
----
-
-## ⚡ Fun Fact
-
-✨ I believe every dataset has a story — my goal is to discover it through data.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ *Thanks for visiting my profile! Let's connect and build something amazing 🚀*
+## 🌐 Connect With Me
+
+💼 LinkedIn: [Your LinkedIn Profile](YOUR_LINK)
+
+📧 Email: your.email@example.com
+
+---
+
+### ✨ "Turning Data into Insights, Ideas into Innovation 🚀"
+
+⭐ Feel free to explore my repositories and connect with me!
