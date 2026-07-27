@@ -54,17 +54,16 @@ I'm a passionate *Data Science Master's student in Germany* who loves transformi
 
 ## 📈 GitHub Statistics
 
-![Nandhini's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Nandhini's GitHub stats](https://github.com/hey-nandy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: [Your LinkedIn Profile](YOUR_LINK)
+💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/nandhini-devi-85b979285)
 
-📧 Email: your.email@example.com
+📧 Email: nandhini1152001@gmail.com
 
 ---
 
